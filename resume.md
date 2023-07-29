@@ -4,14 +4,15 @@ menuorder: 3
 menutitle: Resume
 ---
 ## Currently
-
 Current Position Description
+State Museum and Heritage site "Tsarskoe Selo"
 
 ## Education
-
-`1990 - 1994`
+2000 - 2005
+BA in Culturology
 __University Name__
-Degree Awarded
+Specialist in Culturology
+Saint-Petersburg University of Culture and Arts
 
 `1995 - 1997`
 __University Name__
