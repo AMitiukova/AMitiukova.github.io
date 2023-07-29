@@ -10,9 +10,9 @@ State Museum and Heritage site "Tsarskoe Selo"
 ## Education
 2000 - 2005
 BA in Culturology
-__University Name__
+__Saint-Petersburg University of Culture and Arts__
 Specialist in Culturology
-Saint-Petersburg University of Culture and Arts
+
 
 `1995 - 1997`
 __University Name__
